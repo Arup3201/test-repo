@@ -19,3 +19,12 @@ function(a)
   return 2*a;
 }
 ```
+
+Here is a typical mermaid diagram:
+```mermaid
+graph TD;
+  A-->B
+  A-->C
+  B-->D
+  C-->D
+```
