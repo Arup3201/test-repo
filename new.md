@@ -20,6 +20,11 @@ function(a)
 }
 ```
 
+```python
+def add(a,b):
+  return a+b
+```
+
 Here is a typical mermaid diagram:
 ```mermaid
 graph TD;
