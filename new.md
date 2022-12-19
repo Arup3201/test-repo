@@ -19,3 +19,8 @@ function(a)
   return 2*a;
 }
 ```
+
+```python
+def add(a,b):
+  return a+b
+```
