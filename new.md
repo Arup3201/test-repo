@@ -24,3 +24,12 @@ function(a)
 def add(a,b):
   return a+b
 ```
+
+Here is a typical mermaid diagram:
+```mermaid
+graph TD;
+  A-->B
+  A-->C
+  B-->D
+  C-->D
+```
